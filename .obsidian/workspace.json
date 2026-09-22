@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "56b31ead0d64f045",
+        "id": "13dad3a18c4cea2d",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9c7f1a49d47a97",
+            "id": "0ce5b4b8b1babba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GET aHEAD.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-GET aHEAD"
+              "title": "Plantilla"
             }
           },
           {
-            "id": "db3a60ed62222f1e",
+            "id": "6d9c4a7d40e36b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Cookies.md",
+                "file": "1-MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Cookies"
+              "title": "1-MatchTheRegex"
             }
           },
           {
-            "id": "051ac78e2714d7b0",
+            "id": "1c9b85fa95814fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GET aHEAD.md",
+                "file": "2-SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-GET aHEAD"
+              "title": "2-SOAP"
+            }
+          },
+          {
+            "id": "6a265445b999f87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Trickster"
+            }
+          },
+          {
+            "id": "a8a14b39e4d03cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-Most Cookies"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,46 +245,49 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "051ac78e2714d7b0",
+  "active": "a8a14b39e4d03cf6",
   "lastOpenFiles": [
+    "Pasted image 20260921231128.png",
+    "Pasted image 20260921231038.png",
+    "3-Trickster.md",
+    "2-SOAP.md",
+    "1-MatchTheRegex.md",
+    "Pasted image 20260921193704.png",
+    "Pasted image 20260921193614.png",
+    "Pasted image 20260921193513.png",
+    "4-Most Cookies.md",
+    "Pasted image 20260921113044.png",
+    "Plantilla.md",
+    "Pasted image 20260921112251.png",
+    "Pasted image 20260921112140.png",
+    "Pasted image 20260921111920.png",
+    "Pasted image 20260921111848.png",
+    "Pasted image 20260921102858.png",
+    "06Actividad 11/Plantilla.md",
+    "07Actividad12",
+    "3-jaWT Scratchpad.md",
+    "2-More SQLi.md",
+    "1-irish-Name-Repo 1.md",
+    "04Actividad 10/Plantilla.md",
+    "04Actividad 10/2-Cookies.md",
+    "04Actividad 10/3-Scavenger Hunt.md",
+    "06Actividad 11",
+    "05GeneralSkills/9-binhexa.md",
     "2-Cookies.md",
     "3-Scavenger Hunt.md",
-    "Pasted image 20260909110727.png",
-    "Pasted image 20260909110540.png",
-    "Pasted image 20260909110245.png",
-    "Pasted image 20260909110222.png",
-    "Plantilla.md",
-    "Pasted image 20260909104434.png",
     "1-GET aHEAD.md",
     "02GeneralSkills/15-useless.md",
-    "GeneralSkills/Plantilla.md",
-    "Pasted image 20260907102930.png",
+    "05GeneralSkills/Plantilla.md",
     "04Actividad 10",
-    "Pasted image 20260902210827.png",
     "5-picobrowser.md",
     "6-Client-side-again.md",
-    "Pasted image 20260902202523.png",
-    "Pasted image 20260902103643.png",
-    "Pasted image 20260902113742.png",
     "4-dont-use-client-side.md",
     "3-logon.md",
     "2-where are teh robots.md",
     "1-Insp3ctOr.md",
     "picoCTF web1",
-    "GeneralSkills/2-chrono.md",
-    "GeneralSkills/1-permissions.md",
-    "03GeneralSkills/Plantilla.md",
-    "2-chrono.md",
-    "1-permissions.md",
-    "10-ASCII Numbers.md",
-    "9-binhexa.md",
-    "8-binary search.md",
-    "7-collaborative development.md",
-    "6-blame game.md",
-    "5-time machine.md",
-    "4-committe issue.md",
-    "3-special.md",
-    "GeneralSkills",
+    "05GeneralSkills/2-chrono.md",
+    "05GeneralSkills",
     "01GeneralSkills"
   ]
 }
