@@ -8,77 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ce5b4b8b1babba4",
+            "id": "186a13f529d63e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "1-Includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "1-Includes"
             }
           },
           {
-            "id": "6d9c4a7d40e36b12",
+            "id": "c8d3ee3d798a49f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MatchTheRegex.md",
+                "file": "2-Inspect HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-MatchTheRegex"
+              "title": "2-Inspect HTML"
             }
           },
           {
-            "id": "1c9b85fa95814fff",
+            "id": "db288593ec0cfaa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-SOAP.md",
+                "file": "3-Intro ToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-SOAP"
+              "title": "3-Intro ToBurp"
             }
           },
           {
-            "id": "6a265445b999f87f",
+            "id": "f112cf67941b4149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Trickster.md",
+                "file": "4-Local Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Trickster"
+              "title": "4-Local Authority"
             }
           },
           {
-            "id": "a8a14b39e4d03cf6",
+            "id": "9f722949cd82dbde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Most Cookies.md",
+                "file": "5-Power Cookie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Most Cookies"
+              "title": "5-Power Cookie"
+            }
+          },
+          {
+            "id": "72124975f2278c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-Roboto Sans"
+            }
+          },
+          {
+            "id": "f513a6890943dd1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-Secrets"
+            }
+          },
+          {
+            "id": "ec69934e7513b7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8-SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8-SQLiLite"
+            }
+          },
+          {
+            "id": "24be8fae99f19652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9-Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9-Unminify"
+            }
+          },
+          {
+            "id": "f322d691c237596d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-WebDecode"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -245,24 +315,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a8a14b39e4d03cf6",
+  "active": "f322d691c237596d",
   "lastOpenFiles": [
-    "Pasted image 20260921231128.png",
-    "Pasted image 20260921231038.png",
+    "Pasted image 20260927001851.png",
+    "Pasted image 20260927001717.png",
+    "Pasted image 20260927001609.png",
+    "9-Unminify.md",
+    "Pasted image 20260927000707.png",
+    "Pasted image 20260927000635.png",
+    "Pasted image 20260927000552.png",
+    "8-SQLiLite.md",
+    "Pasted image 20260926235720.png",
+    "Pasted image 20260926235442.png",
+    "Pasted image 20260926235417.png",
+    "Pasted image 20260926235053.png",
+    "Pasted image 20260926234801.png",
+    "7-Secrets.md",
+    "6-Roboto Sans.md",
+    "5-Power Cookie.md",
+    "4-Local Authority.md",
+    "3-Intro ToBurp.md",
+    "2-Inspect HTML.md",
+    "1-Includes.md",
+    "10-WebDecode.md",
+    "Plantilla.md",
+    "07Actividad12/Plantilla.md",
+    "Tarea 2-Web",
     "3-Trickster.md",
     "2-SOAP.md",
     "1-MatchTheRegex.md",
-    "Pasted image 20260921193704.png",
-    "Pasted image 20260921193614.png",
-    "Pasted image 20260921193513.png",
     "4-Most Cookies.md",
-    "Pasted image 20260921113044.png",
-    "Plantilla.md",
-    "Pasted image 20260921112251.png",
-    "Pasted image 20260921112140.png",
-    "Pasted image 20260921111920.png",
-    "Pasted image 20260921111848.png",
-    "Pasted image 20260921102858.png",
     "06Actividad 11/Plantilla.md",
     "07Actividad12",
     "3-jaWT Scratchpad.md",
@@ -274,19 +356,8 @@
     "06Actividad 11",
     "05GeneralSkills/9-binhexa.md",
     "2-Cookies.md",
-    "3-Scavenger Hunt.md",
-    "1-GET aHEAD.md",
-    "02GeneralSkills/15-useless.md",
-    "05GeneralSkills/Plantilla.md",
     "04Actividad 10",
-    "5-picobrowser.md",
-    "6-Client-side-again.md",
-    "4-dont-use-client-side.md",
-    "3-logon.md",
-    "2-where are teh robots.md",
-    "1-Insp3ctOr.md",
     "picoCTF web1",
-    "05GeneralSkills/2-chrono.md",
     "05GeneralSkills",
     "01GeneralSkills"
   ]
