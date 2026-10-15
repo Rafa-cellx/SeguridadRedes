@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-SQL Direct.md",
+                "file": "4-head-dump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7-SQL Direct"
+              "title": "4-head-dump"
             }
           }
         ],
@@ -303,6 +303,8 @@
   },
   "active": "dc70c8334e15eb04",
   "lastOpenFiles": [
+    "3-findme.md",
+    "1-Bookmarklet.md",
     "10 - WebSockFish.md",
     "9 - SSTI2.md",
     "8 - SSTI1.md",
@@ -323,9 +325,7 @@
     "5-Java Code Analysis?!.md",
     "Pasted image 20261003225648.png",
     "4-head-dump.md",
-    "3-findme.md",
     "2-Cookie Monster Secret Recepie.md",
-    "1-Bookmarklet.md",
     "Plantilla.md",
     "PrimerParcialWeb"
   ]

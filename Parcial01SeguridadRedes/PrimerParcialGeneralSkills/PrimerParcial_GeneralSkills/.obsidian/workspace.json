@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f4813bc784d76ec2",
@@ -195,8 +195,10 @@
     "7 - Rust fixme 2.md",
     "6 - Rust fixme 1.md",
     "5 - Python Wrangling.md",
+    "4 - HashingJobApp.md",
     "3 - FANTASY CTF.md",
     "2 - flag_shop.md",
-    "1 - dont-you-love-banners.md"
+    "1 - dont-you-love-banners.md",
+    "10 - Specialer.md"
   ]
 }
